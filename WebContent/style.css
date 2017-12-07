@@ -1,0 +1,33 @@
+.message{
+	color:red;
+}
+.left{
+	float:left;
+	margin:25px 25px 0px 35px;
+}
+.page{
+	float:left;
+	margin-left:80px;
+	margin-bottom:0px;
+}
+.pagetop{
+	text-align:center;
+	height:100px;
+}
+
+a.title:hover{
+color: #000000;
+text-decoration:none;
+}
+a.title:visited{
+color: #000000;
+text-decoration:none;
+}
+a.title:link{
+color: #000000;
+text-decoration:none;
+}
+a.title:active{
+color: #000000;
+text-decoration:none;
+}
